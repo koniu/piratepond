@@ -1,0 +1,175 @@
+* PROBLEMS
+** AC for machine: check out alelondon.log and http://www.geeks.com/largePic_All.asp?InvtId=EDEQ-4000-COMBO&Pic=EDEQ-4000-COMBO-unit.jpg
+
+** pirate-eject: didn't detect empty cd -> wodim
+** didn't burn cds
+** screensaver went on
+** no propaganda
+** no ship
+* PROPAGANDA
+** DEB relevant sections: http://www.opsi.gov.uk/acts/acts2010/ukpga_20100024_en_2#pb2-l1g9
+** Doctorow on DEB: http://www.boingboing.net/2009/11/20/britains-new-interne.html
+** Very good overview: http://www.dontdisconnect.us/the-proposals/
+*** 6 steps
+
+Step 1
+------
+
+Rightsholders (companies such as music labels that 'own' the copyright to content) identify the IP (Internet Protocol) addresses of connections being used for illegal filesharing.
+
+Step 2
+------
+
+They send the IP addresses to the relevant Internet Service Provider (companies that provide your internet connection such as British Telecom or TalkTalk) and the ISP then matches the IP address to a broadband connection.
+
+Step 3
+------
+
+ISPs send warning letters to the account holder of that broadband connection.
+
+Step 4
+------
+
+IF the broadband connection continues to 'offent' over a period of time (the threshold is yet to be determined) then the ISP is obliged to impose a penalty such as disconnection or 'throttling' the line.
+
+Step 5
+------
+
+IF you think you have been wrongly accused, you can appeal the decision.
+
+Step 6
+------
+
+Any other measures the Government decides suitable to tackle illegal filesharing!  Known as 'section 17'.
+
+** File sharing: http://en.wikipedia.org/wiki/File_sharing#UK_government_policy_on_illegal_file_sharing
+** Graduated response: http://en.wikipedia.org/wiki/Graduated_response
+According to Barry Sookman and Dan Glover, the main characteristics of these initiatives are:[4]
+
+    * Rights holders monitor P2P networks for illegal downloading activities
+    * Rights holders provide ISPs with convincing proof of infringements being committed by an individual at a given IP address
+    * Educational notices are sent through an ISP to the account holder informing him or her of the infringements and of the consequences of continued infringement and informing the user that content can be lawfully acquired online
+    * If the account holder repeatedly ignores the notices, a tribunal may take deterrent action, with the most severe sanctions reserved for a court
+
+Repeat-infringers who refuse to acknowledge what is and is not lawful risk intermediate technical measures such as bandwidth reduction, protocol blocking and, in a worst-case scenario, account suspension.
+
+United Kingdom
+
+In January 2009 the British government announced its plans to legislate a graduated response system for peer to peer copyright infringement. In the report entitled Digital Britain the government includes plans for a mandatory "code" for ISPs to follow, as well as the creation of a government "Rights Agency" to help stakeholders deal with the issue of “civil copyright”. Under the proposed scheme the UK government would legislate a "Code on unlawful file-sharing" that’s ISPs would have to follow and would establish "appeals and standards of evidence".[10] Since late 2009 Great Britain's Lord Mandelson is pushing ahead with plans to impose a graduated response through the Digital Economy Bill[11], despite the Gower's report and Lord Carter's Digital Britain report advising against it.[citation needed] The Act has now been passed into law.[12]
+
+** HADOPI: http://en.wikipedia.org/wiki/HADOPI_law
+The HADOPI law or Creation and Internet law (French: Loi favorisant la diffusion et la protection de la création sur Internet,[1] "law promoting the distribution and protection of creative works on the internet") is a French law introduced during 2009. The law attempts to control and regulate internet access as a means to encourage compliance with copyright laws. "HADOPI" is the government agency created by the eponymous law.
+
+Despite strong backing from the President Nicolas Sarkozy, the bill was rejected by the French National Assembly on 9 April 2009.[2][3][4] The French government asked for reconsideration of the bill by the French National Assembly and it was adopted on 12 May 2009 by the assembly[5], and on 13 May 2009 by the French Senate.
+
+The debate around the law has involved accusations of dubious tactics made against the promoters of the law. The content of the Government promotional website does not reflect the wording of the bill[6], while the French Wikipedia pages relating to HADOPI were falsified by the Ministry of Culture on 14 February 2009.[7], and a "petition of 10,000 artists" in support of the bill was challenged as numerous signatures are proven to not come from people engaging in any artistic activities described by the petition, to belong to non-existent people, or to belong to artists who denied having signed the petition[8].
+
+On 10 June 2009, the Constitutional Council of France struck down the central, controversial, portion of HADOPI, that would have allowed sanctions against internet users accused of copyright violations (as opposed to being convicted for same), ruling that because "the Internet is a component of the freedom of expression" and "in French law the presumption of innocence prevails", only a judge can impose sanctions under the law.[9][10]
+
+On 22 October 2009, the Constitutional Council of France approved a revised version of HADOPI, requiring judicial review before revoking a person's internet access, but otherwise resembling the original requirements.[11]
+* ale.log
+** long text
+[Fri May 21 2010]
+<alelondon> this one						        [23:58]
+
+[Sat May 22 2010]
+<maxigas> somebody said that you have the power chord for this machine that
+	  has a builtin screen.					        [00:00]
+<maxigas> it's not a laptop but a box that has a triangular shape from the
+	  side
+<maxigas> but it has a freaky power cord that has 3 pins in it
+<alelondon> you skiped that one?				        [00:01]
+<alelondon> i HAD a spare dell power suply
+<alelondon> its a dell connector innit?
+<maxigas> i heard that it's from your old place in holloway road
+<maxigas> hmm.. i don't know if it is dell but i can check now	        [00:02]
+<maxigas> i pop down to the basement and check it now
+<maxigas> ah but you say you don't have it anymore..
+<alelondon> i have a power supply for a dell i have here. there was a broken
+	    one and you could use the connector... bt or i threw away(i doubt
+	    it, cause i think this connectos are precious	        [00:03]
+<alelondon> or it should be with the cables i sent there	        [00:04]
+<alelondon> if is possible have a look for a dodgy laptop power supply. it ll
+	    have the right connector(you still need a power supply of ,5 amps?
+								        [00:05]
+<alelondon> ~4,5 amps
+<maxigas> it doesn't say anything anywhere outside or inside the machine about
+	  how much power it needs				        [00:06]
+<maxigas> it says Belkin on the back
+<maxigas> we have no power supply for it, so if we want to test the machine we
+	  have to make one, but it's risky because we don't know how much
+	  power should go in..					        [00:07]
+<alelondon> mmm. i remember, so i probably researched about it at the time,
+	    but it wasnt mine..
+<maxigas> but it's a machine with a builtin screen, it looks like it could be
+	  a touchscreen, and it would be good for this PiratePond installation
+	  that we are working on
+<maxigas> so you think you have a cable that may be used at least to test the
+	  machine?						        [00:08]
+<alelondon> isnt that risky i wd try 19-20VDC 4500mA minimum
+<alelondon> enough to try n see
+<maxigas> there's also 3 pins in the socket and we don't know which one is +
+	  and - and GND						        [00:10]
+<maxigas> so if we connect the + where the - should go that is quite bad isn't
+	  it?
+<alelondon> wait i ll be back					        [00:11]
+<maxigas> ok
+<alelondon> send me model spec or any trace of data on the belkin       [00:14]
+<alelondon> fcc #?
+<maxigas> let me see..						        [00:15]
+<maxigas> aha							        [00:17]
+<maxigas> "This equipment complies with part 15 of the FCC Rules."
+<maxigas> but it also says more:
+<maxigas> Model: L4TVA						        [00:18]
+<maxigas> Output: 20V, 6.0A, 120W Max.
+<maxigas> ^^^ is that for the power *input*?
+<alelondon> i guess
+<alelondon> wow 6 amp						        [00:19]
+<maxigas> it has a builtin screen
+<alelondon> it makes sense
+<maxigas> the company is called Biostar				        [00:20]
+<maxigas> aha it's this beast: 
+<maxigas>
+	  http://www.geeks.com/largePic_All.asp?InvtId=EDEQ-4000-COMBO&Pic=EDEQ-4000-COMBO-unit.jpg
+								        [00:21]
+<maxigas> on the right hand side you can see the crazy 3 pin power connector
+	  socket
+<alelondon> you mean the 3 shini pns? nooo!			        [00:23]
+<alelondon> those are the ac input				        [00:24]
+<maxigas> yes
+<maxigas> on the machine it looks the same
+<maxigas> there is such a hole for power on the machine with 3 pins     [00:25]
+<alelondon> the dc output its a typical dell connector and i swear ther was a
+	    broken laptop PS with that connector in a box i dropped in marest
+<maxigas> hm							        [00:27]
+<maxigas> we filed through all that stuff but nobody could find a plug for it
+								        [00:28]
+<maxigas> but of course it could here in the chaos :)
+<alelondon> i dont mean the AC 3 pin connector. that is not important. use a
+	    figure of eight and a knife. leave it ungrounded
+<alelondon> the other one you could find on any dell compatible PS      [00:29]
+<maxigas> alright, so you mean the "20V, 6.0A, 120W Max." should come from a
+	  Dell brick?						        [00:30]
+<alelondon> or else. but the funny connector looks like a dell one      [00:34]
+<maxigas> hehe, there is already a power cable with two naked wires at the end
+	  next to the machine. :)				        [00:35]
+<maxigas> ok that's a good tip
+<maxigas> thanks a lot
+<alelondon> Looking at the front side of the plug:		        [00:36]
+<alelondon> 
+<alelondon> 
+<alelondon> / 1 \
+<alelondon> |3 2|
+<alelondon> 
+<alelondon> 
+<alelondon> I measured without load:
+<alelondon> 
+<alelondon> 1-2: 0V
+<alelondon> 1-3: 20V (3 is positive)
+<alelondon> 2-3: 20V (3 is positive)
+ERC> 
+<maxigas> that means 1 is GND, 3 is + and 2 is - ?		        [00:38]
+<alelondon> thts what i ve found
+<maxigas> cool
+<alelondon> best thing is to open
+
