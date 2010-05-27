@@ -5,7 +5,21 @@ require("awful")
 require("awful.rules")
 require("naughty")
 require("beautiful")
+
+--}}}
+--{{{ common settings
+
+-- initialize color theme
 beautiful.init("/usr/share/awesome/themes/default/theme.lua")
+
+-- notifications
+naughty.config.padding = 12
+naughty.config.default_preset = {
+  border_width = 0,
+  margin = 20,
+  screen = 1,
+  position = "top_left"
+}
 
 --}}}
 --{{{ tag / layout settings
@@ -46,7 +60,7 @@ root.keys(awful.util.table.join(
     awful.key({ }, "F4", function()  end ),
     awful.key({ }, "F5", function() awful.util.spawn("eject -T") end ),
     awful.key({ }, "F6", function() 
-        awful.util.spawn_with_shell("xterm -rv -bg 'white' -fg '#150300' -name burn -e sh /opt/burnaudio.sh")
+        awful.util.spawn_with_shell("xterm -rv -bg 'white' -fg '#150300' -name burn -e sh burnaudio.sh")
     end ),
     awful.key({ }, "F7", function()  end ), 
     awful.key({ }, "F8", function()  end ), 
